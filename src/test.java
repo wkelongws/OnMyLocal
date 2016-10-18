@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 		File dir = new File("C:/Users/shuowang/Desktop/weather2016unzipped/10");
 		dir.mkdir();
+		System.out.println("test")
 	}
 
 }
